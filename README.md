@@ -12,7 +12,7 @@ You'll need to use planes and positioning to build the walls, floor, and ceiling
 <a-plane id="back" color="#bbc3cc" height="40" width="70" position="-2.150 0 44.604" rotation="0.458 180.000 -180.000"></a-plane>
 ```
 
-You'll also want to add models to your apartment to make it look more realistic. You can download models from [Clara.io](https://clara.io/library) and use them in your project by including them as assets. 
+You'll also want to add models to your apartment to make it look more realistic. You can download models from [Clara.io](https://clara.io/library) or [Google Poly Blocks](https://poly.google.com/) and use them in your project by including them as assets. 
 
 ```js
 <!--Couch-->
